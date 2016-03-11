@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Christian Repato]]></title>
+        <description><![CDATA[Christian Repato]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Mar 2016 15:02:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test Title]]></title>
+            <description><![CDATA[<article><h1>Test Title</h1><p>Test Post</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bb1a0b4-88c0-45c8-9baa-aaf2b5942d9c.jpg"></article>]]></description>
+            <link>undefinedtest-title/index.html</link>
+            <guid isPermaLink="false">a4ef3bbd-0d15-40df-be9e-83e06d681b67</guid>
+            <pubDate>Fri, 11 Mar 2016 15:01:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
