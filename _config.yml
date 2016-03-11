@@ -1,7 +1,7 @@
 name: Christian Repato
 favicon: null
-layout_spectrum: 0.6499925574753433
-typography_spectrum: 0.2052157949656248
+layout_spectrum: 1
+typography_spectrum: 0.31206
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.08322693151421845
-  lightness: 0.7625220397021621
-  saturation: 0.40876467945054173
-  rhythmicContrast: 0.3459732346236706
+    - '#00142f'
+    - '#196589'
+    - '#61c1da'
+    - '#ace6f2'
+    - '#979548'
+  brandStrength: 1
+  lightness: 0.1875
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
