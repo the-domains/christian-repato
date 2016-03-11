@@ -1,7 +1,7 @@
 name: Christian Repato
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.31206
+layout_spectrum: 0.48581
+typography_spectrum: 0.03493
 title: Christian Repato
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#00142f'
-    - '#196589'
-    - '#61c1da'
-    - '#ace6f2'
-    - '#979548'
+    - '#060603'
+    - '#636363'
+    - '#f8f4f1'
+    - '#a98471'
+    - '#cecac7'
   brandStrength: 0.5
-  lightness: 0.8125
-  saturation: 1
+  lightness: 0.875
+  saturation: 0.6875
   rhythmicContrast: 0.5
 purpose: []
