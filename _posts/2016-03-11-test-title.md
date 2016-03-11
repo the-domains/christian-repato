@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Test Post
-datePublished: '2016-03-11T15:01:59.815Z'
-dateModified: '2016-03-11T15:01:39.604Z'
+datePublished: '2016-03-11T15:30:10.902Z'
+dateModified: '2016-03-11T15:30:09.231Z'
 title: Test Title
 author: []
+sourcePath: _posts/2016-03-11-test-title.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-test-title.md
-published: true
 url: test-title/index.html
 _type: Article
 
