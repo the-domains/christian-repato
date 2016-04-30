@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: content of the page
-datePublished: '2016-04-30T02:01:42.666Z'
-dateModified: '2016-04-30T02:01:34.388Z'
+datePublished: '2016-04-30T02:03:57.126Z'
+dateModified: '2016-04-30T02:03:33.500Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-30-another-page.md
