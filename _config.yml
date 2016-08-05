@@ -1,20 +1,20 @@
-typography_spectrum: 0.28665713127702475
+typography_spectrum: 0.15346
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 0.07528864359483123
-  lightness: 0.6252856587525457
-  saturation: 0.7227966475766152
-  rhythmicContrast: 0.1402543520089239
+    - '#0c2233'
+    - '#065471'
+    - '#0a91ab'
+    - '#ffc045'
+    - '#f7ba43'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.8721408757846802
+layout_spectrum: 1
 analytics:
   google: null
   facebook: null
@@ -23,11 +23,13 @@ author:
   name: Christian Repato
   email: emailme@christianrepato.com
   url: christianrepato.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1462f0c3-8e44-42ae-a03c-2eba1b181c84.png
 name: Christian Repato
 cta:
   domain: null
   bucket: null
   version: null
 favicon: null
-title: Christian Repato
+title: a designer
 purpose: []
