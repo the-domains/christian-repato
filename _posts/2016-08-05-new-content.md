@@ -1,13 +1,13 @@
 ---
-description: content
-dateModified: '2016-08-05T04:21:46.657Z'
-datePublished: '2016-08-05T04:21:53.715Z'
-title: new content
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-05T05:00:07.495Z'
 sourcePath: _posts/2016-08-05-new-content.md
+author: []
+via: {}
+dateModified: '2016-08-05T05:00:06.767Z'
+title: new content
+publisher: {}
+description: content
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
