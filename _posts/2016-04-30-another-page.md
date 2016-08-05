@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-05T04:03:02.885Z'
+datePublished: '2016-08-05T04:37:48.801Z'
 sourcePath: _posts/2016-04-30-another-page.md
 inFeed: false
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-05T04:03:01.373Z'
+via: {}
+dateModified: '2016-08-05T04:37:47.262Z'
 title: Title of another page
 publisher: {}
 description: content of the page
 inLanguage: null
 inNav: true
-via: {}
 starred: false
 url: another-page/index.html
 _type: WebPage
@@ -24,13 +24,13 @@ content of the page
 
 fdasfafdah gfakdjsfsd
 
-af 
+af
 
-dsa 
+dsa
 
 f
 
-sad 
+sad
 
 f
 
