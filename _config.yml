@@ -32,10 +32,7 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Contact
-    id: b64091ac-6717-4f79-96b0-33544bca12d1
-    type: content
+navigation: []
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/82eaa7ba-56fd-4bee-86e9-42736d71b061.png
 title: a designer
