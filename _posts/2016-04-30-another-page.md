@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T04:38:04.625Z'
+datePublished: '2016-08-05T04:57:06.765Z'
 sourcePath: _posts/2016-04-30-another-page.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-05T04:38:03.713Z'
+dateModified: '2016-08-05T04:57:05.983Z'
 title: Title of another page
 publisher: {}
 description: content of the page
